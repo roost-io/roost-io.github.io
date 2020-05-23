@@ -1,3 +1,3 @@
-# roost-io.github.io
+# Download Roost
 
- [![tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)](https://zb.io)
+ [![Mac OS 10.9+](https://github.com/roost-io/roost-io.github.io/blob/master/mac-download.png)](https://roost-stable.s3-us-west-2.amazonaws.com/Roost-May16-4AM-10-p.dmg)
