@@ -1,3 +1,4 @@
-# Download Roost
-
- [![Mac OS 10.9+](https://roost-io.github.io/mac-download.png)](https://roost-stable.s3-us-west-2.amazonaws.com/Roost-May16-4AM-10-p.dmg)
+##What is Roost Kubernetes Desktop Platform?
+Roost consists of three components:   Roost Desktop: Fully integrated containerized micro-services development, deployment, observability platform for Kubernetes.
+Zettabytes Kubernetes Engine for Roost (ZKE) : 3+ node cluster for desktop
+Roost Container Registry (RCR): Desktop based Image Registry
